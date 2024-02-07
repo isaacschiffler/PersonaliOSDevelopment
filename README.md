@@ -1,1 +1,2 @@
-# MyiOSApp
+# Personal iOS Development Project
+This is a mobile app personal project I have been working on over about the past year. I started from scratch by teaching myself how to program in Swift. Over time, I developed a stronger ability to code in Swift and the app became progressively more advanced to now incorporate a Firebase document based database. I inted to continually work on this project to improve my development skills and create a great application.
