@@ -1,0 +1,2453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD1B3AE8-359D-4709-AD46-3E5E0A2FF4B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18E117F7-103C-48E7-B924-493CB1F1BF58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "355"
+            endingLineNumber = "355"
+            landmarkName = "fetchImagesFromPaths(imagePaths:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "18E117F7-103C-48E7-B924-493CB1F1BF58 - 312278d5e0fb0d85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "18E117F7-103C-48E7-B924-493CB1F1BF58 - 4a539951bebd1b7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "328"
+                  endingLineNumber = "328"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "634370E2-569A-4376-8233-2CD40E3296EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "362"
+            endingLineNumber = "362"
+            landmarkName = "fetchImagesFromPaths(imagePaths:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "634370E2-569A-4376-8233-2CD40E3296EF - 9305925cf85b0359"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "339"
+                  endingLineNumber = "339"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "634370E2-569A-4376-8233-2CD40E3296EF - 312278d5e0fb0dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "334"
+                  endingLineNumber = "334"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "634370E2-569A-4376-8233-2CD40E3296EF - 9305925cf85b01b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "330"
+                  endingLineNumber = "330"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24639040-A2F5-4464-80DE-2B9C416293C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "360"
+            endingLineNumber = "360"
+            landmarkName = "fetchImagesFromPaths(imagePaths:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "24639040-A2F5-4464-80DE-2B9C416293C9 - 9305925cf85b029b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "337"
+                  endingLineNumber = "337"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "24639040-A2F5-4464-80DE-2B9C416293C9 - 312278d5e0fb0d85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B7D5196-0FDB-4A5E-A9E3-5A7357790DA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "364"
+            endingLineNumber = "364"
+            landmarkName = "fetchImagesFromPaths(imagePaths:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "0B7D5196-0FDB-4A5E-A9E3-5A7357790DA7 - 312278d5e0fb0ccb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "0B7D5196-0FDB-4A5E-A9E3-5A7357790DA7 - 9305925cf85b02f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "336"
+                  endingLineNumber = "336"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E647E3D6-8D6D-46DA-A434-E97C1BC0F2D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "363"
+            endingLineNumber = "363"
+            landmarkName = "fetchImagesFromPaths(imagePaths:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E647E3D6-8D6D-46DA-A434-E97C1BC0F2D3 - 312278d5e0fb0c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+               <Location
+                  uuid = "E647E3D6-8D6D-46DA-A434-E97C1BC0F2D3 - 9305925cf85b02d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "335"
+                  endingLineNumber = "335"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "E647E3D6-8D6D-46DA-A434-E97C1BC0F2D3 - 9305925cf85b02d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in tivy.fetchImagesFromPaths(imagePaths: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "335"
+                  endingLineNumber = "335"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C012173-27CA-40DD-8719-EB6931C0DF50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9C012173-27CA-40DD-8719-EB6931C0DF50 - 2b08c7bdf967dd29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt; in closure #3 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in tivy.ProfileView.body.getter : some"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "9C012173-27CA-40DD-8719-EB6931C0DF50 - d0a66d074c1b5c48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, __C.UIImage) -&gt; &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt; in closure #3 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: __C.UIImage)&gt;, __C.UIImage, &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in tivy.ProfileView.body.getter : some"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F639E56-765B-4901-AD4A-A43DA09ECDD6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0A0D501-861B-4B6F-BFE2-36EF703F5B85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44077072-2298-469A-88A1-1347DF73338C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "44077072-2298-469A-88A1-1347DF73338C - 9657d5791f807736"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in tivy.ProfileView.body.getter : some"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "1976">
+               </Location>
+               <Location
+                  uuid = "44077072-2298-469A-88A1-1347DF73338C - b275eb891f4486"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in tivy.ProfileView.body.getter : some"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7513C038-462D-49FD-BA78-07762DD6A6F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "916D58CF-9B37-4C2D-91AD-CF84157017BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "413"
+            endingLineNumber = "413"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "916D58CF-9B37-4C2D-91AD-CF84157017BC - 6241fb2c05a31c04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "413"
+                  endingLineNumber = "413"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "916D58CF-9B37-4C2D-91AD-CF84157017BC - 8933b6c3dadeeb9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "413"
+                  endingLineNumber = "413"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58FDFF80-3116-424E-8709-70C6DACEB69E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "414"
+            endingLineNumber = "414"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD1308AA-AF57-465E-8F5B-C5D82EABA48E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E9F881E-19E7-4E40-BF59-533D57900B12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "416"
+            endingLineNumber = "416"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC51357A-533D-4095-BE3F-6B3042BFA413"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "418"
+            endingLineNumber = "418"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80424292-FBB5-4E93-BC75-1A17C767BDD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "421"
+            endingLineNumber = "421"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69C70568-1E38-4BFF-885D-74BB6D0B9002"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "422"
+            endingLineNumber = "422"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "678DD516-852F-4D1F-95BA-11CC7A4EA628"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "425"
+            endingLineNumber = "425"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96F56A7C-EBF6-41BC-A8CE-9EDA82B1F96B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "428"
+            endingLineNumber = "428"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "96F56A7C-EBF6-41BC-A8CE-9EDA82B1F96B - 6241fb2c05a31e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "430"
+                  endingLineNumber = "430"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "96F56A7C-EBF6-41BC-A8CE-9EDA82B1F96B - 8933b6c3dadeeb9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "413"
+                  endingLineNumber = "413"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ADF8B41-0CB9-4532-8FB0-D474D022CAAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "429"
+            endingLineNumber = "429"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F25339C3-0701-4FED-A113-BD2C75993019"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "431"
+            endingLineNumber = "431"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A2C0511-6301-4D94-8EA4-650592C37F68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "432"
+            endingLineNumber = "432"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D041C86C-4DA5-4BB8-B05F-DF3DF75D3E3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "435"
+            endingLineNumber = "435"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D041C86C-4DA5-4BB8-B05F-DF3DF75D3E3D - 8933b6c3dadee8c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "438"
+                  endingLineNumber = "438"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "D041C86C-4DA5-4BB8-B05F-DF3DF75D3E3D - 8933b6c3dadee8c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "438"
+                  endingLineNumber = "438"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C66ABBC8-8599-4348-A1B9-901985C14D00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "436"
+            endingLineNumber = "436"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F69BF5AB-CC5E-4959-9DD4-F3E5E0394432"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "437"
+            endingLineNumber = "437"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F69BF5AB-CC5E-4959-9DD4-F3E5E0394432 - 8933b6c3dadee704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "440"
+                  endingLineNumber = "440"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "F69BF5AB-CC5E-4959-9DD4-F3E5E0394432 - 8933b6c3dadee704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "440"
+                  endingLineNumber = "440"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27C9BC56-ED22-4197-B369-B23F5FBEF835"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "438"
+            endingLineNumber = "438"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D32BECE9-5E5C-4819-BEF0-2E5FC48D2892"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "440"
+            endingLineNumber = "440"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BC27A22-26D2-4568-A172-4D9EE6915CEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "441"
+            endingLineNumber = "441"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CA854A7-1743-4C68-8A5F-91E28F9F4FA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "439"
+            endingLineNumber = "439"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C55B7BA8-A8DB-4D53-B4C5-5D097E9DF18C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "956E65E9-CF56-4DD1-BD65-62A57C3F1E0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "447"
+            endingLineNumber = "447"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B15AB4A-7A22-47FB-A8FB-C328DDC35245"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
+            landmarkName = "retrieveFavs2()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2B15AB4A-7A22-47FB-A8FB-C328DDC35245 - 6241fb2c05a31e55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "430"
+                  endingLineNumber = "430"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "2B15AB4A-7A22-47FB-A8FB-C328DDC35245 - 8933b6c3dadeeb9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs2() -&gt; Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "413"
+                  endingLineNumber = "413"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26969C95-D567-4458-9702-55CE9F5CD04A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/FavGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "26969C95-D567-4458-9702-55CE9F5CD04A - 6b3fce8aa8ad5bf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;tivy.ActivityV3&gt;, tivy.ActivityV3, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, tivy.DetailView&gt;&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;tivy.ActivityV3&gt;, tivy.ActivityV3, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, tivy.DetailView&gt;&gt;&gt; in tivy.GridView.body.getter : some"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/FavGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "26969C95-D567-4458-9702-55CE9F5CD04A - 6b385f7a290305bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (tivy.ActivityV3) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, tivy.DetailView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;tivy.ActivityV3&gt;, tivy.ActivityV3, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, tivy.DetailView&gt;&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;tivy.ActivityV3&gt;, tivy.ActivityV3, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, tivy.DetailView&gt;&gt;&gt; in tivy.GridView.body.getter : some"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/FavGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C17C361-3FC2-4380-8123-A3D841DCB52D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/FavGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FF2CD49-2CC9-41A6-9E5D-EB9633AD2067"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "380"
+            endingLineNumber = "380"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6FEB74D-4E52-49EB-86CA-595E82C8E2EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "385"
+            endingLineNumber = "385"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D3C49AB-8470-42F7-9408-918B3BF892F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "386"
+            endingLineNumber = "386"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "189F576D-06AE-4250-91F0-0D7158A6F563"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "387"
+            endingLineNumber = "387"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E279BEC5-CD22-42BF-BA98-1EDB9614D4C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "390"
+            endingLineNumber = "390"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09A6A97E-7A34-4DB3-AF67-9E2F91FA6F78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "09A6A97E-7A34-4DB3-AF67-9E2F91FA6F78 - 37705bf18f5ce5bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.retrieveFavs(completion: (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "393"
+                  endingLineNumber = "393"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "09A6A97E-7A34-4DB3-AF67-9E2F91FA6F78 - 819ae5b8ac877fcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs(completion: (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "394"
+                  endingLineNumber = "394"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "184A4BF2-3F27-4766-B137-80379F038DE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D72E59C-0FA9-4184-8C2E-9DB922D05DA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "399"
+            endingLineNumber = "399"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2D72E59C-0FA9-4184-8C2E-9DB922D05DA4 - 819ae5b8ac877f28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs(completion: (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "399"
+                  endingLineNumber = "399"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "2D72E59C-0FA9-4184-8C2E-9DB922D05DA4 - 819ae5b8ac877f28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs(completion: (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "399"
+                  endingLineNumber = "399"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C00F36E-CE41-41EB-98AD-7BE5B4B0AA18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9C00F36E-CE41-41EB-98AD-7BE5B4B0AA18 - 819ae5b8ac877ee6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs(completion: (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "9C00F36E-CE41-41EB-98AD-7BE5B4B0AA18 - 819ae5b8ac877ee6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.retrieveFavs(completion: (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A972164-A61A-4F54-A86C-C5C684F00C37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "404"
+            endingLineNumber = "404"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9484FAC-44A9-475D-BA17-AEA275DFA8B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "403"
+            endingLineNumber = "403"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79C354D0-4C56-4C13-A154-9AEF137CA711"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "407"
+            endingLineNumber = "407"
+            landmarkName = "retrieveFavs(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71033267-BA17-4E17-A912-F62C936D913B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "fetchGivenActivities(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71033267-BA17-4E17-A912-F62C936D913B - 77a017bcf6efb516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[11] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "71033267-BA17-4E17-A912-F62C936D913B - 77a017bcf6efb516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[11] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "71033267-BA17-4E17-A912-F62C936D913B - 77a017bcf6efb3e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[11] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "71033267-BA17-4E17-A912-F62C936D913B - f7e79750f28c7efd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[11] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B162DB04-F40A-4DBC-BA00-2D086559CD0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "fetchProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B162DB04-F40A-4DBC-BA00-2D086559CD0D - b5d0926e72de2c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "B162DB04-F40A-4DBC-BA00-2D086559CD0D - b5d0926e72de2c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "B162DB04-F40A-4DBC-BA00-2D086559CD0D - b5d0926e72de2d0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "B162DB04-F40A-4DBC-BA00-2D086559CD0D - b5d0926e72de2c04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE821D8B-2A4C-4F8A-842C-2CCB4E293700"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE821D8B-2A4C-4F8A-842C-2CCB4E293700 - 38e506216af44a0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.init() -&gt; tivy.ProfileDataManager"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+               <Location
+                  uuid = "DE821D8B-2A4C-4F8A-842C-2CCB4E293700 - 38e506216af44a0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.init() -&gt; tivy.ProfileDataManager"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C519369-EC4C-48F3-BA9A-3F05A6758FBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "fetchGivenActivities(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C519369-EC4C-48F3-BA9A-3F05A6758FBB - b039ab00e679a3c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "9C519369-EC4C-48F3-BA9A-3F05A6758FBB - b039ab00e679a3e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "9C519369-EC4C-48F3-BA9A-3F05A6758FBB - b039ab00e679a174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "9C519369-EC4C-48F3-BA9A-3F05A6758FBB - 7f91c8b4535a3f39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21B8845A-2495-4B8D-B466-AF9511D8431D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "fetchGivenActivities(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21B8845A-2495-4B8D-B466-AF9511D8431D - b039ab00e679a3c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "21B8845A-2495-4B8D-B466-AF9511D8431D - b039ab00e679a3c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "21B8845A-2495-4B8D-B466-AF9511D8431D - b039ab00e679a155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "21B8845A-2495-4B8D-B466-AF9511D8431D - 7f91c8b4535a3f18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B04E815-EA96-404D-9E66-31F16121528A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "fetchGivenActivities(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 1cb02a5ac5afc253"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 1cb02a5ac5afc253"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 1cb02a5ac5afc3bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 1cb02a5ac5afc3bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 1cb02a5ac5afddc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 1cb02a5ac5afddc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 9afd415247460321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "4B04E815-EA96-404D-9E66-31F16121528A - 9afd415247460321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05166D66-5DB5-4021-9D58-450621BECB06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "fetchGivenActivities(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - b039ab00e679a05d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - 1cb02a5ac5afc37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - b039ab00e679a07c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - 1cb02a5ac5afc35b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - b039ab00e679a1f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - 1cb02a5ac5afc2d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - 7f91c8b4535a3fbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "05166D66-5DB5-4021-9D58-450621BECB06 - 9afd4152474602ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "fetchGivenActivities(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 1cb02a5ac5afc295"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 1cb02a5ac5afc295"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 1cb02a5ac5afc2f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 1cb02a5ac5afc2f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 1cb02a5ac5afdc02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 1cb02a5ac5afdc02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 9afd415247461c1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "25880EC1-5AA7-4AC7-9F0E-0A330A2B11A8 - 9afd415247461c1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "935B5CB3-4640-440A-AC38-2A1AABBD6FDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "fetchProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "935B5CB3-4640-440A-AC38-2A1AABBD6FDB - 97aa238eb8e95f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "5884">
+               </Location>
+               <Location
+                  uuid = "935B5CB3-4640-440A-AC38-2A1AABBD6FDB - b5d0926e72de2ca1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "935B5CB3-4640-440A-AC38-2A1AABBD6FDB - 97aa238eb8e95986"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "5920">
+               </Location>
+               <Location
+                  uuid = "935B5CB3-4640-440A-AC38-2A1AABBD6FDB - b5d0926e72de2d2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "935B5CB3-4640-440A-AC38-2A1AABBD6FDB - 97aa238eb8e9588e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "5884">
+               </Location>
+               <Location
+                  uuid = "935B5CB3-4640-440A-AC38-2A1AABBD6FDB - b5d0926e72de2c25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "761D6C95-2A09-450A-8AF6-B6637CDD60E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchProfile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "761D6C95-2A09-450A-8AF6-B6637CDD60E9 - 97aa238eb8e95dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "5820">
+               </Location>
+               <Location
+                  uuid = "761D6C95-2A09-450A-8AF6-B6637CDD60E9 - 4af0effe9861560d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "761D6C95-2A09-450A-8AF6-B6637CDD60E9 - 97aa238eb8e95efc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "5856">
+               </Location>
+               <Location
+                  uuid = "761D6C95-2A09-450A-8AF6-B6637CDD60E9 - 4af0effe9861560d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "761D6C95-2A09-450A-8AF6-B6637CDD60E9 - 97aa238eb8e95d01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchProfile() -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "5820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DC28260-8A5E-49FA-860A-DF59F8C9AA7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "fetchGivenActivities(favIDs:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A613A6C1-E03A-479B-81F7-5ADF750BEC55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "fetchGivenActivities(favIDs:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A613A6C1-E03A-479B-81F7-5ADF750BEC55 - 9afd415247461d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "2808">
+               </Location>
+               <Location
+                  uuid = "A613A6C1-E03A-479B-81F7-5ADF750BEC55 - 9afd415247461d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "2924">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D73FF987-99CC-40E9-9539-F67C78B0F94B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "fetchGivenActivities(favIDs:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78103F4A-7DEE-4DF8-B8E4-3B3249EB1D48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "fetchGivenActivities(favIDs:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78103F4A-7DEE-4DF8-B8E4-3B3249EB1D48 - 9afd415247461ec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "5212">
+               </Location>
+               <Location
+                  uuid = "78103F4A-7DEE-4DF8-B8E4-3B3249EB1D48 - 9afd415247461ec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "5328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17860F15-0C26-4EFE-B591-7F3ACEA73158"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "fetchGivenActivities(favIDs:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17860F15-0C26-4EFE-B591-7F3ACEA73158 - 9afd415247461e8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "5628">
+               </Location>
+               <Location
+                  uuid = "17860F15-0C26-4EFE-B591-7F3ACEA73158 - f7e79750f28c7f10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[11] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in tivy.ProfileDataManager.fetchGivenActivities(favIDs: Swift.Array&lt;Swift.String&gt;, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "tivy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaacschiffler/Desktop/tivy/tivy/Models/ProfileDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64124A6B-D71B-4205-AD12-4F6C4E9A3CFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tivy/Models/ProfileDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "fetchGivenActivities(favIDs:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

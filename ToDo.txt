@@ -1,0 +1,13 @@
+1. fix signup page so it makes them create a profile
+2.75 finish the createactivityview so it allows the user to add a time
+2.875 refresh feature for profile
+3. add a launch screen?
+4. figure out what the storyboard does and maybe add one?
+5. add rating feature
+6. add (add more photos) for the actual activity page
+
+    add more stuff for edit profile?
+
+    make a profileDataManager and create an environmentobject for it so the info is instant when switching to profile view
+
+    add more images to the detailview
